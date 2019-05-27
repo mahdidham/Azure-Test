@@ -1,2 +1,2 @@
 # Azure-Test
-blablabla
+Current work from Azure Cloud basic training
